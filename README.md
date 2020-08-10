@@ -2,7 +2,7 @@
 
 ## Introduction
 
-A companion project to [Uno_RAK811](https://github.com/Kongduino/Inkplate_Raw_Bitmap), which sends LoRa packets containing environment data. So, since we're sending stuff, we also need to receive it, right? ;-)
+A companion project to [Uno_RAK811](https://github.com/Kongduino/Uno_RAK811), which sends LoRa packets containing environment data. So, since we're sending stuff, we also need to receive it, right? ;-)
 
 In this example, we'll use a computer connected to a WisNode LoRa via USB, and some Python code.
 
